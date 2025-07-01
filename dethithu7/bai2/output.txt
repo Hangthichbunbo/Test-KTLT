@@ -1,0 +1,20 @@
+---Danh sach thi sinh---
+Ho ten                        So diem        Dai hoc        
+Hoang Thu Hoang               25.6           A         
+Nguyen Duc Manh               27.8           B         
+Hoang Duc Duong               19.7           C         
+Nguyen Thuy Duong             26.5           A         
+
+Tong diem cua truong A la: 52.1
+
+Tong diem cua truong B la: 27.8
+
+Tong diem cua truong C la: 71.8
+
+Truong co so diem nho nhat la truong B
+
+---Danh sach 3 thi sinh co diem cao nhat la---
+Ho ten                        So diem        Dai hoc        
+Nguyen Duc Manh               27.8           B         
+Nguyen Thuy Duong             26.5           A         
+Hoang Thu Hoang               25.6           A         
