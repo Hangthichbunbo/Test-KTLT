@@ -1,0 +1,7 @@
+Thong tin cua sach can tim
+Ten sach: Sinh hoc	Tac gia: Nguyen Hoang Long	NXB: 1987
+---Danh sach sach xuat ban truoc nam 2000---
+Ten sach            Tac gia             NXB       
+Sinh hoc            Nguyen Hoang Long   1987      
+Toan hoc            Nguyen Duc Manh     1996      
+Tam ly hoc          Duong Duc Viet      1997      
